@@ -1,6 +1,6 @@
 ### Bruno Palhano 👨‍💻
 
-Atualmente, estou em transição de carreira buscando a primeira vaga como Analista de Dados, já venho desenvolvendo meus projetos aqui mesmo.
+Atualmente, estou em transição de carreira buscando a primeira vaga como Desenvolvedor Back-End, já venho desenvolvendo meus projetos aqui mesmo.
 
 - [x] 📊 Analista de Dados Python
 - [x] 💻 Já trabalhei com essas linguagens: 
