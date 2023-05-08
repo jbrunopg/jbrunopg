@@ -2,17 +2,15 @@
 
 Atualmente, estou em transição de carreira buscando a primeira vaga como Desenvolvedor Back-End, já venho desenvolvendo meus projetos aqui mesmo.
 
-- [x] 📊 Analista de Dados Python
-- [x] 💻 Já trabalhei com essas linguagens: 
-- [x] ⚫️ HTML
-- [x] 🔵 CSS
-- [x] 🔴 JavaScript
+- [x] 💻 Desenvolvedor Back-End | Back-End Developer | Python | SQL | Java | C# | PHP |
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />&nbsp;&nbsp;
 </div> 
 
 ##
@@ -26,8 +24,3 @@ Atualmente, estou em transição de carreira buscando a primeira vaga como Desen
 </a>&nbsp;
 </a>&nbsp;
 
-Principais Projetos:
-
-- [x] [Web scraping site de ações](https://github.com/jbrunopg/extracao-dados-site)
-- [x] [Tratamento variavéis texto](https://github.com/jbrunopg/tratamento-variaveis-texto)
-- [x] [Calculadora Python](https://github.com/jbrunopg/calculadora_avancado) 
