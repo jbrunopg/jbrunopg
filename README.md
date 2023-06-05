@@ -1,4 +1,4 @@
-### Olá me chamo Bruno Palhano 👨‍💻
+### Olá me chamo Bruno Palhano! 👨‍💻
 
 Atualmente, estou em transição de carreira buscando a primeira vaga como Desenvolvedor Back-End, já venho desenvolvendo meus projetos aqui mesmo.
 
