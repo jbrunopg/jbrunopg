@@ -1,8 +1,8 @@
 ### Olá me chamo Bruno Palhano! 👨‍💻
 
-Atualmente, estou em transição de carreira buscando a primeira vaga como Desenvolvedor Back-End, já venho desenvolvendo meus projetos aqui mesmo.
+Atualmente, estou em transição de carreira buscando a primeira vaga como Desenvolvedor Back-End, já venho desenvolvendo meus projetos aqui mesmo
 
-- [x] 💻 Desenvolvedor Back-End | Back-End Developer | Python | SQL | Java | C# | PHP |
+- [x] 💻 Desenvolvedor Back-End | Back-End Developer | Python | SQL | Java | C# | PHP 
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
